@@ -1,0 +1,3 @@
+[submodule "taskrepo"]
+	path = taskrepo
+	url = https://github.com/sigtyp/ST2020.git
